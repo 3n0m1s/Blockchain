@@ -1,2 +1,2 @@
 # Blockchain
-Epocum blockchain based network
+Epocum: blockchain based advertising/storage network
