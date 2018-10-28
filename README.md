@@ -1,2 +1,1 @@
-# Blockchain
-Epocum: blockchain based advertising and storage network
+# Wallet criptographic key model
